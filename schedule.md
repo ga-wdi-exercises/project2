@@ -45,12 +45,19 @@
 
 ## Friday 11/20
 
-**Attendance will be taken at Presentations (1:00pm).**
+**Attendance will be taken at 1:00pm.**
 
 | Time | Event |
 |------|-------|
-| 11:00am | **[Presentation Video](./presentations.md) due** |
-| 12:30 – 1:30pm | Catered Lunch |
-| 1:30 – 4:00pm  | [Project Presentations](./presentations.md)|
-| 4:00 – 4:30pm | Feedback Survey |
-| 4:30 – 5:00pm | Squad Retros! |
+| 11:00am | **Project due** |
+| 12:30 | Catered Lunch |
+| 1:00 | **Attendance is taken** |
+| 1:30 | [Project Presentations](./presentations.md)|
+| 4:00 | Feedback Survey |
+| 4:30 | Squad Retros! |
+
+To submit your project, please create an issue **on this repo** containing **3 things**:
+- [A link to your video on YouTube/Vimeo/wherever](presentations.md)
+- A link to the deployed version of your app
+- A link to your app's Github repo
+
