@@ -29,7 +29,7 @@
 
 | Time | Event |
 |------|-------|
-|10:00 – 11:00am | Mini Lesson: Sessions & User Auth |
+|10:00 – 11:00am | Mini Lesson: Devise |
 | 3:00 - 5:00pm | Genius Bar|
 
 ## Thursday 3/24
