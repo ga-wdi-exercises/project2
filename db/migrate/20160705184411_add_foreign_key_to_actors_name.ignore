@@ -1,0 +1,4 @@
+class AddForeignKeyToActorsName < ActiveRecord::Migration
+  def change
+  end
+end

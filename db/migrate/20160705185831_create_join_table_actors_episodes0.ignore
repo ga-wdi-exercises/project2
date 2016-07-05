@@ -1,0 +1,8 @@
+class CreateJoinTableActorsEpisodes < ActiveRecord::Migration
+  def change
+    create_join_table :actors, :episodes do |t|
+      t.string :name,  index: true null: false
+      t.string :episode,  index: true null: false
+    end
+  end
+end
