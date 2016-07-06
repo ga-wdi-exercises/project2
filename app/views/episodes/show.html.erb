@@ -2,3 +2,9 @@
 <h1><%= @episode.title %></h1>
 <h2><%= @episode.air_date %></h2>
 <p> <%= @episode.synopsis %></p>
+
+<% if @episode.actorepisodes.any?  %>
+<% @episode.actorepisodes.each do |actorepisode|  %>
+  <p><%= link_to actorepisode.actor.name, actor_path(actorepisode.actor) %> -  <%= actorepisode.actor.character %> </p>
+<%end%>
+<%end%>

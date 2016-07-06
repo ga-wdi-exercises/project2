@@ -11,10 +11,20 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160705193551) do
+ActiveRecord::Schema.define(version: 20160706231010) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "actorepisodes", force: :cascade do |t|
+    t.string   "name",       null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.integer  "actor_id"
+    t.integer  "episode_id"
+  end
+
+  add_index "actorepisodes", ["name"], name: "index_actorepisodes_on_name", using: :btree
 
   create_table "actors", force: :cascade do |t|
     t.string   "name"
@@ -25,31 +35,20 @@ ActiveRecord::Schema.define(version: 20160705193551) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string   "character"
+    t.integer  "actor_id",   null: false
   end
 
   add_index "actors", ["name"], name: "index_actors_on_name", using: :btree
 
-  create_table "actors_to_episodes", force: :cascade do |t|
-    t.string   "name",       null: false
-    t.string   "episode",    null: false
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
-  add_index "actors_to_episodes", ["episode"], name: "index_actors_to_episodes_on_episode", using: :btree
-  add_index "actors_to_episodes", ["name"], name: "index_actors_to_episodes_on_name", using: :btree
-
   create_table "episodes", force: :cascade do |t|
     t.string   "title"
-    t.string   "episode"
     t.integer  "ep_year"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.integer  "ep_num"
     t.string   "air_date"
     t.text     "synopsis"
+    t.integer  "episode_id"
   end
-
-  add_index "episodes", ["episode"], name: "index_episodes_on_episode", using: :btree
 
 end

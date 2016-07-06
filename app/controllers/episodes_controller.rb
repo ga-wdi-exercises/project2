@@ -9,7 +9,7 @@ class EpisodesController < ApplicationController
 
   private
   def episode_params
-    params.require(:episode).permit(:title, :air_date, :synopsis)
+    params.require(:episode_id).permit(:title, :air_date, :synopsis )
   end
-  
+
 end

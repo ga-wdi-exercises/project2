@@ -14,6 +14,7 @@ CSV.foreach('db/mash_cast.csv', headers: true) do |row|
   Actor.create(
     {
       name: row['name'],
+      actor_id: row['name_id'],
       first_name: row['first_name'],
       last_name: row['last_name'],
       character: row['character']
@@ -28,21 +29,22 @@ CSV.foreach('db/mash_episodes.csv', headers: true) do |row|
     {
       ep_year: row['ep_year'],
       ep_num: row['ep_num'],
-      episode: row['episode'],
       title: row['title'],
       air_date: row['air_date'],
-      synopsis: row['synopsis']
+      synopsis: row['synopsis'],
+      episode_id: row['episode']
     }
   )
 end
 
-ActorsToEpisodes.delete_all
+Actorepisode.delete_all
 
 CSV.foreach('db/MASH_cast_by_episode.csv', headers: true) do |row|
-  ActorsToEpisodes.create(
+  Actorepisode.create(
   {
-    episode: row['EpID'],
-    name: row['Actor']
+    episode: Episode.find_by(episode_id: row["EpID"]),
+    name: row['Actor'],
+    actor: Actor.find_by(actor_id: row["name_id"])
   }
   )
 end
