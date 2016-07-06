@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+#heading {
+  background-image: url("mash_logo.jpg");
+  height: 200px;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+/*body {
+  width: 900px;
+  position: relative;
+}*/

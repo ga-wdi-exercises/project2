@@ -1,0 +1,4 @@
+<h1>All Episodes </h1>
+<% @episodes.each do |episode| %>
+      <p><%= link_to episode.title, episode_path(episode)%> - <%= episode.air_date %> </p>
+<% end %>

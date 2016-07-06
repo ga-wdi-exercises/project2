@@ -9,7 +9,7 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,7,1.7,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
 1,8,1.8,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
 1,9,1.9,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
-1,10,1.10,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
+1,10,1.1,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
 1,11,1.11,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
 1,12,1.12,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
 1,13,1.13,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
@@ -19,11 +19,11 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,17,1.17,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
 1,18,1.18,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
 1,19,1.19,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
-1,20,1.20,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
+1,20,1.2,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
 1,22,1.22,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
 1,23,1.23,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
 1,24,1.24,Alan Alda,Captain Benjamin Franklin Pierce,Alan,Alda
-1,20,1.20,Alan Manson,Colonel Hersh,Alan,Manson
+1,20,1.2,Alan Manson,Colonel Hersh,Alan,Manson
 1,18,1.18,Alex Henteloff,Captain Casey,Alex,Henteloff
 1,13,1.13,Arlene Golonka,Nurse Edwina 'Eddie' Ferguson,Arlene,Golonka
 1,5,1.5,Barbara Brownell,Lt. Jones,Barbara,Brownell
@@ -31,9 +31,9 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,6,1.6,Bert Kramer,Sgt. Martin,Bert,Kramer
 1,9,1.9,Bill Svanoe,Aide,Bill,Svanoe
 1,8,1.8,Billy Green Bush,John 'Cowboy' Hodges,Billy,Green Bush
-1,20,1.20,Bobbie Mitchell,Nurse Mason,Bobbie,Mitchell
+1,20,1.2,Bobbie Mitchell,Nurse Mason,Bobbie,Mitchell
 1,2,1.2,Bonnie Jones,Lt. Barbara Bannerman ,Bonnie,Jones
-1,10,1.10,Bonnie Jones,Lt. Barbara Bannerman,Bonnie,Jones
+1,10,1.1,Bonnie Jones,Lt. Barbara Bannerman,Bonnie,Jones
 1,12,1.12,Bonnie Jones,Lt. Barbara Bannerman,Bonnie,Jones
 1,23,1.23,Bonnie Jones,Lt. Barbara Bannerman,Bonnie,Jones
 1,23,1.23,Bruce Kimmel,Private Gilbert,Bruce,Kimmel
@@ -60,7 +60,7 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,7,1.7,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
 1,8,1.8,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
 1,9,1.9,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
-1,10,1.10,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
+1,10,1.1,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
 1,11,1.11,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
 1,12,1.12,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
 1,13,1.13,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
@@ -70,7 +70,7 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,17,1.17,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
 1,18,1.18,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
 1,19,1.19,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
-1,20,1.20,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
+1,20,1.2,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
 1,22,1.22,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
 1,23,1.23,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
 1,24,1.24,Gary Burghoff,Corporal Walter Eugene O'Reilly,Gary,Burghoff
@@ -89,16 +89,16 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,12,1.12,Jamie Farr,Maxwell Klinger,Jamie,Farr
 1,18,1.18,Jamie Farr,Maxwell Klinger,Jamie,Farr
 1,19,1.19,Jamie Farr,Maxwell Klinger,Jamie,Farr
-1,20,1.20,Jamie Farr,Maxwell Klinger,Jamie,Farr
+1,20,1.2,Jamie Farr,Maxwell Klinger,Jamie,Farr
 1,23,1.23,Jamie Farr,Maxwell Klinger,Jamie,Farr
 1,9,1.9,Jean Pleet,Nurse,Jean,Pleet
 1,8,1.8,Jean Powell,Nurse Baker,Jean,Powell
 1,24,1.24,Jean Turrell,Miller Sister,Jean,Turrell
 1,14,1.14,Jerry Harper,Sergeant,Jerry,Harper
 1,24,1.24,Joan Lucksinger,Miller Sister,Joan,Lucksinger
-1,8,1.8,Joe Corey,Goldstein (as Joseph Corey),Joe,Corey
+1,8,1.8,Joe Corey,Goldstein,Joe,Corey
 1,24,1.24,Joey Forman,Jackie Flash,Joey,Forman
-1,20,1.20,John A. Zee,Commander Sturner,John,Zee
+1,20,1.2,John A. Zee,Commander Sturner,John,Zee
 1,2,1.2,John C. Johnson,Truck Driver,John,Johnson
 1,1,1.1,John Orchard,Capt. 'Ugly John' Black,John,Orchard
 1,2,1.2,John Orchard,Capt. 'Ugly John' Black,John,Orchard
@@ -107,7 +107,7 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,5,1.5,John Orchard,Capt. 'Ugly John' Black,John,Orchard
 1,8,1.8,John Orchard,Capt. 'Ugly John' Black,John,Orchard
 1,9,1.9,John Orchard,Capt. 'Ugly John' Black,John,Orchard
-1,20,1.20,John Orchard,Capt. 'Ugly John' Black,John,Orchard
+1,20,1.2,John Orchard,Capt. 'Ugly John' Black,John,Orchard
 1,24,1.24,John Orchard,Capt. 'Ugly John' Black,John,Orchard
 1,19,1.19,Joseph V. Perry,The Cook (as Joseph Perry),Joseph,Perry
 1,1,1.1,Karen Philipp,Lt. Maria 'Dish' Schneider,Karen,Philipp
@@ -125,7 +125,7 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,7,1.7,Larry Linville,Major Franklin Marion Burns,Larry,Linville
 1,8,1.8,Larry Linville,Major Franklin Marion Burns,Larry,Linville
 1,9,1.9,Larry Linville,Major Franklin Marion Burns,Larry,Linville
-1,10,1.10,Larry Linville,Major Franklin Marion Burns,Larry,Linville
+1,10,1.1,Larry Linville,Major Franklin Marion Burns,Larry,Linville
 1,11,1.11,Larry Linville,Major Franklin Marion Burns,Larry,Linville
 1,12,1.12,Larry Linville,Major Franklin Marion Burns,Larry,Linville
 1,13,1.13,Larry Linville,Major Franklin Marion Burns,Larry,Linville
@@ -135,7 +135,7 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,17,1.17,Larry Linville,Major Franklin Marion Burns,Larry,Linville
 1,18,1.18,Larry Linville,Major Franklin Marion Burns,Larry,Linville
 1,19,1.19,Larry Linville,Major Franklin Marion Burns,Larry,Linville
-1,20,1.20,Larry Linville,Major Franklin Marion Burns,Larry,Linville
+1,20,1.2,Larry Linville,Major Franklin Marion Burns,Larry,Linville
 1,22,1.22,Larry Linville,Major Franklin Marion Burns,Larry,Linville
 1,23,1.23,Larry Linville,Major Franklin Marion Burns,Larry,Linville
 1,24,1.24,Larry Linville,Major Franklin Marion Burns,Larry,Linville
@@ -145,7 +145,7 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,4,1.4,Linda Meiklejohn,Lt. Leslie Scorch,Linda,Meiklejohn
 1,5,1.5,Linda Meiklejohn,Lt. Leslie Scorch,Linda,Meiklejohn
 1,9,1.9,Linda Meiklejohn,Lt. Leslie Scorch,Linda,Meiklejohn
-1,10,1.10,Linda Meiklejohn,Lt. Leslie Scorch,Linda,Meiklejohn
+1,10,1.1,Linda Meiklejohn,Lt. Leslie Scorch,Linda,Meiklejohn
 1,13,1.13,Linda Meiklejohn,Lt. Leslie Scorch,Linda,Meiklejohn
 1,16,1.16,Linda Meiklejohn,Lt. Leslie Scorch,Linda,Meiklejohn
 1,12,1.12,Lizabeth Deen,Becky,Lizabeth,Deen
@@ -159,7 +159,7 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,7,1.7,Loretta Swit,Major Margaret Houlihan,Loretta,Swit
 1,8,1.8,Loretta Swit,Major Margaret Houlihan ,Loretta,Swit
 1,9,1.9,Loretta Swit,Major Margaret Houlihan,Loretta,Swit
-1,10,1.10,Loretta Swit,Major Margaret Houlihan,Loretta,Swit
+1,10,1.1,Loretta Swit,Major Margaret Houlihan,Loretta,Swit
 1,11,1.11,Loretta Swit,Major Margaret Houlihan,Loretta,Swit
 1,12,1.12,Loretta Swit,Major Margaret Houlihan,Loretta,Swit
 1,13,1.13,Loretta Swit,Major Margaret Houlihan,Loretta,Swit
@@ -169,7 +169,7 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,17,1.17,Loretta Swit,Major Margaret Houlihan,Loretta,Swit
 1,18,1.18,Loretta Swit,Major Margaret Houlihan,Loretta,Swit
 1,19,1.19,Loretta Swit,Major Margaret Houlihan,Loretta,Swit
-1,20,1.20,Loretta Swit,Major Margaret Houlihan,Loretta,Swit
+1,20,1.2,Loretta Swit,Major Margaret Houlihan,Loretta,Swit
 1,22,1.22,Loretta Swit,Major Margaret Houlihan,Loretta,Swit
 1,23,1.23,Loretta Swit,Major Margaret Houlihan,Loretta,Swit
 1,24,1.24,Loretta Swit,Major Margaret Houlihan,Loretta,Swit
@@ -194,7 +194,7 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,7,1.7,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
 1,8,1.8,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
 1,9,1.9,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
-1,10,1.10,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
+1,10,1.1,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
 1,11,1.11,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
 1,12,1.12,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
 1,13,1.13,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
@@ -204,7 +204,7 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,17,1.17,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
 1,18,1.18,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
 1,19,1.19,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
-1,20,1.20,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
+1,20,1.2,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
 1,22,1.22,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
 1,23,1.23,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
 1,24,1.24,McLean Stevenson,Lt. Colonel Henry Blake,McLean,Stevenson
@@ -215,7 +215,7 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,4,1.4,Odessa Cleveland,Lt. Ginger Bayliss,Odessa,Cleveland
 1,7,1.7,Odessa Cleveland,Lt. Ginger Bayliss,Odessa,Cleveland
 1,9,1.9,Odessa Cleveland,Lt. Ginger Bayliss,Odessa,Cleveland
-1,10,1.10,Odessa Cleveland,Lt. Ginger Bayliss,Odessa,Cleveland
+1,10,1.1,Odessa Cleveland,Lt. Ginger Bayliss,Odessa,Cleveland
 1,11,1.11,Odessa Cleveland,Lt. Ginger Bayliss,Odessa,Cleveland
 1,12,1.12,Odessa Cleveland,Lt. Ginger Bayliss,Odessa,Cleveland
 1,18,1.18,Odessa Cleveland,Lt. Ginger Bayliss,Odessa,Cleveland
@@ -226,7 +226,7 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,5,1.5,Patrick Adiarte,Ho-Jon,Patrick,Adiarte
 1,8,1.8,Patrick Adiarte,Ho-Jon,Patrick,Adiarte
 1,9,1.9,Patrick Adiarte,Ho-Jon,Patrick,Adiarte
-1,10,1.10,Patrick Adiarte,Ho-Jon,Patrick,Adiarte
+1,10,1.1,Patrick Adiarte,Ho-Jon,Patrick,Adiarte
 1,11,1.11,Patrick Adiarte,Ho-Jon,Patrick,Adiarte
 1,23,1.23,Patrick Adiarte,Ho-Jon,Patrick,Adiarte
 1,5,1.5,Paul Jenkins,Sergeant Baker,Paul,Jenkins
@@ -235,7 +235,7 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,11,1.11,Robert Gooden,Pvt. Lorenzo Boone,Robert,Gooden
 1,2,1.2,Robert Ito,Lin,Robert,Ito
 1,17,1.17,Ron Howard,Wendell ,Ron,Howard
-1,20,1.20,Sheila Lauritsen,Nurse Hardy,Sheila,Lauritsen
+1,20,1.2,Sheila Lauritsen,Nurse Hardy,Sheila,Lauritsen
 1,24,1.24,Sheila Lauritsen,Nurse Hardy,Sheila,Lauritsen
 1,3,1.3,Sorrell Booke,Gen. Wilson Spaulding Barker,Sorrell,Booke
 1,4,1.4,Sorrell Booke,Gen. Wilson Spaulding Barker,Sorrell,Booke
@@ -246,11 +246,11 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,4,1.4,Timothy Brown,Capt. Oliver Harmon 'Spearchucker' Jones,Timothy,Brown
 1,5,1.5,Timothy Brown,Capt. Oliver Harmon 'Spearchucker' Jones,Timothy,Brown
 1,9,1.9,Timothy Brown,Capt. Oliver Harmon 'Spearchucker' Jones,Timothy,Brown
-1,10,1.10,Timothy Brown,Capt. Oliver Harmon 'Spearchucker' Jones,Timothy,Brown
+1,10,1.1,Timothy Brown,Capt. Oliver Harmon 'Spearchucker' Jones,Timothy,Brown
 1,11,1.11,Timothy Brown,Capt. Oliver Harmon 'Spearchucker' Jones,Timothy,Brown
 1,23,1.23,Todd Susman,P.A. Announcer ,Todd,Susman
 1,6,1.6,Tom Sparks,Corpsman,Tom,Sparks
-1,5,1.5,Virginia Ann Lee,Young Hi (as Virginia Lee),Virginia,Ann Lee
+1,5,1.5,Virginia Ann Lee,Young Hi ,Virginia,Ann Lee
 1,2,1.2,Wayne Bryan,Private Thompson,Wayne,Bryan
 1,1,1.1,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
 1,2,1.2,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
@@ -262,7 +262,7 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,7,1.7,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
 1,8,1.8,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
 1,9,1.9,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
-1,10,1.10,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
+1,10,1.1,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
 1,11,1.11,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
 1,12,1.12,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
 1,13,1.13,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
@@ -272,20 +272,20 @@ Year,Episode,EpID,Actor,Character,FirstName,LastName
 1,17,1.17,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
 1,18,1.18,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
 1,19,1.19,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
-1,20,1.20,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
+1,20,1.2,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
 1,22,1.22,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
 1,23,1.23,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
 1,24,1.24,Wayne Rogers,Captain John McIntyre,Wayne,Rogers
 1,3,1.3,William Christopher,Father Francis Mulcahy,William,Christopher
 1,8,1.8,William Christopher,Father Francis Mulcahy,William,Christopher
 1,9,1.9,William Christopher,Father Francis Mulcahy,William,Christopher
-1,10,1.10,William Christopher,Father Francis Mulcahy,William,Christopher
+1,10,1.1,William Christopher,Father Francis Mulcahy,William,Christopher
 1,12,1.12,William Christopher,Father Francis Mulcahy,William,Christopher
 1,15,1.15,William Christopher,Father Francis Mulcahy,William,Christopher
 1,17,1.17,William Christopher,Father Francis Mulcahy,William,Christopher
 1,18,1.18,William Christopher,Father Francis Mulcahy,William,Christopher
 1,19,1.19,William Christopher,Father Francis Mulcahy,William,Christopher
-1,20,1.20,William Christopher,Father Francis Mulcahy,William,Christopher
+1,20,1.2,William Christopher,Father Francis Mulcahy,William,Christopher
 1,23,1.23,William Christopher,Father Francis Mulcahy,William,Christopher
 1,24,1.24,William Christopher,Father Francis Mulcahy,William,Christopher
 1,12,1.12,William Katt,P.F.C. ,William,Katt
