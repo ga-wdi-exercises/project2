@@ -20,29 +20,37 @@ body {
 }
 h1 {
   line-height: 1;
-  font-size: 18px;
+  font-size: 24px;
   margin: 0em 0em 1em 0em;
 }
 h2 {
   line-height: 1;
-  font-size: 16px;
+  font-size: 22px;
   margin: 0em 0em 1em 0em;
 }
 h3 {
   line-height: 1;
-  font-size: 14px;
+  font-size: 18px;
   margin: 0em 0em 1em 0em;
   font-style: italic;
 }
 p {
   line-height: 1;
-  font-size: 14px;
+  font-size: 18px;
   margin: 0em 0em 0em 0em;
 }
 article {
   line-height: 1;
-  font-size: 14px;
+  font-size: 16px;
   margin: 0em 0em 2em 0em;
+}
+a {
+  text-decoration: none;
+  decoration: none;
+}
+a:visited  {
+  text-decoration: none;
+  decoration: none;
 }
 #heading {
   background-image: url("mash_logo.jpg");
@@ -76,7 +84,8 @@ article {
   /*padding: 5px;
   border: 1px solid #cccc33;
   background: #dddd88;*/
-  flex: 3 1 40%;
+  flex: 3 1 45%;
+  padding-right: 75px;
   order: 2;
 }
 
@@ -86,7 +95,7 @@ article {
   /*border: 1px solid #cccc33;
   border-radius: 7pt;
   background: #dddd88;*/
-  flex: 3 1 40%;
+  flex: 3 1 35%;
   order: 3;
 }
 
@@ -96,7 +105,7 @@ article {
   /*border: 1px solid #8888bb;
   border-radius: 7pt;
   background: #ccccff;*/
-  flex: 1 6 10%;
+  flex: 1 6 15%;
   order: 1;
 }
 
@@ -106,17 +115,17 @@ article {
   /*border: 1px solid #8888bb;
   border-radius: 7pt;
   background: #ccccff;*/
-  flex: 1 6 10%;
+  flex: 1 6 5%;
   order: 4;
 }
 /*ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #d3d3d3;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #d3d3d3;
 }
 
 li {
-  float: left;
+float: left;
 }*/

@@ -1,5 +1,0 @@
-class Actorepisode < ActiveRecord::Base
-  self.table_name = "actors_to_episodes"
-  has_many :Actors
-  has_many :Episodes
-end

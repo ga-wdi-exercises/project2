@@ -6,6 +6,7 @@
 </div>
 
 <div class=centerr>
+    <h2> Cast </h2>
 <% if @episode.actorepisodes.any?  %>
   <% @episode.actorepisodes.each do |actorepisode|  %>
     <p><%= link_to actorepisode.actor.name, actor_path(actorepisode.actor) %> -  <%= actorepisode.actor.character %> </p>

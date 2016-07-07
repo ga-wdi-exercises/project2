@@ -17,7 +17,9 @@ CSV.foreach('db/mash_cast.csv', headers: true) do |row|
       actor_id: row['name_id'],
       first_name: row['first_name'],
       last_name: row['last_name'],
-      character: row['character']
+      character: row['character'],
+      img_url: row['img_url'],
+      imdb_id: row['imdb_id']
     }
   )
 end
