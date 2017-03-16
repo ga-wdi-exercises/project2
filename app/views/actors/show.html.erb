@@ -1,0 +1,16 @@
+<div class=centerl>
+<h1><%= @actor.name %></h1>
+<h3><%= @actor.character %></h3>
+<%= image_tag(@actor.img_url) %>
+</div>
+
+
+<div class=centerr>
+  <h2> Episodes </h2>
+  <% if @actor.actorepisodes.any?  %>
+  <% @actor.actorepisodes.each do |actorepisode|  %>
+    <p><%= link_to actorepisode.episode.title, episode_path(actorepisode.episode) %> </p>
+  <%end%>
+<%end%>
+
+</div>

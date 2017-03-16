@@ -1,0 +1,132 @@
+/*
+* This is a manifest file that'll be compiled into application.css, which will include all the files
+* listed below.
+*
+* Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+* or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+*
+* You're free to add application-wide styles to this file and they'll appear at the bottom of the
+* compiled file so the styles you add here take precedence over styles defined in any styles
+* defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+* file per style scope.
+*
+*= require_tree .
+*= require_self
+*/
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+
+body {
+  font-family: "Droid Sans";
+  background-color: #d6d6d6;
+}
+h1 {
+  line-height: 1;
+  font-size: 24px;
+  margin: 0em 0em 1em 0em;
+}
+h2 {
+  line-height: 1;
+  font-size: 22px;
+  margin: 0em 0em 1em 0em;
+}
+h3 {
+  line-height: 1;
+  font-size: 18px;
+  margin: 0em 0em 1em 0em;
+  font-style: italic;
+}
+p {
+  line-height: 1;
+  font-size: 18px;
+  margin: 0em 0em 0em 0em;
+}
+article {
+  line-height: 1;
+  font-size: 16px;
+  margin: 0em 0em 2em 0em;
+}
+a {
+  text-decoration: none;
+  decoration: none;
+}
+a:visited  {
+  text-decoration: none;
+  decoration: none;
+}
+#heading {
+  background-image: url("mash_logo.jpg");
+  height: 200px;
+  width: 100%;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+#buttoncontainer {
+  font-size: 25px;
+  padding-top: 10px;
+  text-decoration: none;
+  height: 50px;
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+#buttoncontainer:visited {
+  text-decoration: none;
+}
+#main {
+  min-height: 800px;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-flow: row;
+}
+
+#main > .centerl {
+  margin: 4px;
+  /*padding: 5px;
+  border: 1px solid #cccc33;
+  background: #dddd88;*/
+  flex: 3 1 45%;
+  padding-right: 75px;
+  order: 2;
+}
+
+#main > .centerr {
+  margin: 4px;
+  padding: 5px;
+  /*border: 1px solid #cccc33;
+  border-radius: 7pt;
+  background: #dddd88;*/
+  flex: 3 1 35%;
+  order: 3;
+}
+
+#main > .left {
+  margin: 4px;
+  padding: 5px;
+  /*border: 1px solid #8888bb;
+  border-radius: 7pt;
+  background: #ccccff;*/
+  flex: 1 6 15%;
+  order: 1;
+}
+
+#main > .right {
+  margin: 4px;
+  padding: 5px;
+  /*border: 1px solid #8888bb;
+  border-radius: 7pt;
+  background: #ccccff;*/
+  flex: 1 6 5%;
+  order: 4;
+}
+/*ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #d3d3d3;
+}
+
+li {
+float: left;
+}*/

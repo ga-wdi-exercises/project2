@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>M*A*S*H Reference Site</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+
+</head>
+<body><div id=heading>
+</div>
+<div id=buttoncontainer>
+  <%= link_to "View Actors", actors_path %> | <%= link_to "View Episodes", episodes_path %>
+</div>
+<div id=main>
+  <div class=left>
+  </div>
+    <%= yield %>
+  <div class=right>
+  </div>
+
+
+
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+
+<div class=centerl>
+  <h1>List of Actors</h1>
+<% sorted = @actors.sort_by &:last_name  %>
+<% sorted.each do |actor| %>
+    <p><%= link_to actor.name, actor_path(actor) %> -  <%= actor.character %></p>
+<% end %>
+</div>
