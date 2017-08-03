@@ -35,7 +35,7 @@ Your app must...
 By **Thursday, August 10th at 12:00pm**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing...
 
   * a link to your Project 2 Github repository
-    > *Please do **not** fork this repo*
+    > Please do **not** fork this repo
 
   * a link to your screencast presentation
     > Refer to the [presentations.md](presentations.md) file for more information on how to record your video
@@ -57,7 +57,7 @@ Your repo should contain...
 
 #### Planning
 
-  * ***If you aren't a planner, start now***.
+  * **If you aren't a planner, start now**.
   * **Begin with the end in mind**. Spend a dedicated block of time to planning with wireframes and user stories so you don't waste time building things you don't need.
 
   * **Write pseudocode before you write actual code**. Thinking through the logic of something helps streamline your process.
@@ -113,7 +113,7 @@ Instructors will be offering in-person support each morning from 10:00am - 12:00
 
 We will be providing **continuous** support via GitHub, on the issues section of this repo. This is to mirror "in-the-wild" practices. Oftentimes, developers will interact with each other via GitHub issues, particularly in remote work settings.
 
-Students will be limited to `10 minutes` at a time with one-on-one instructor support. We are doing this to ensure we can support ALL students during a session as well as giving you an opportunity to try working through your problem.
+Students will be limited to **10 minutes** at a time with one-on-one instructor support. We are doing this to ensure we can support ALL students during a session as well as giving you an opportunity to try working through your problem.
 
 <!-- Prior to a one-on-one during Open Office Hours, we ***strongly recommend*** that you file an issue on this repository in order to both provide the instructor with a point of reference regarding your code and the issue you are having. This will enable us to give you more effective guidance. -->
 
