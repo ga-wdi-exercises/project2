@@ -22,14 +22,10 @@ If you have a Gmail account, you already have a YouTube account. Just go to http
 - ...one thing you would do differently next time
 - ...the next feature you would like to implement
 
-### Submission Deadline: Wednesday, May 3rd<sup>th</sup>, 12:00pm
-
 
 ## Recording a Video
 
 You may use any video-recording mechanism you wish. Whichever you choose, we recommend that you **make a quick test video first**.
-
-Include a link to your video as an issue on [the Project2-Gallery repository](https://github.com/ga-dc/project2-gallery).
 
 ### QuickTime
 
@@ -42,5 +38,3 @@ QuickTime Player is in the Applications folder of your Mac. Notice that if you g
 ### iMovie
 
 If you're feeling really fancy you can use iMovie -- also in your Applications folder -- to swankify your video. However, this should be a priority far below actually completing your project. Having a snazzy-looking video isn't on the rubric!
-
-

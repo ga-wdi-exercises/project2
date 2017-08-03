@@ -8,14 +8,10 @@ For the first time, we will each be **building a full-stack application from the
 
 **You will be working individually for this project**, and you'll be designing the app yourself. We will be taking ***attendance at 9:00am*** per usual every morning of project week.
 
-**You must submit your idea, complete with ERDs, to your squad leader by 12:30pm Friday, June 9th.** After submitting your complete proposal with ERDs, you will receive feedback and/or approval for your project idea by 2:30pm.
+**You must submit your idea, complete with ERDs, to your squad leader by 11:00am Friday, August 4th.** After submitting your complete proposal with ERDs, you will receive feedback and/or approval for your project idea by 2:30pm.
 
 Remember to focus on your MVP first &mdash; **scope creep/feature creep is one of the biggest potential pitfalls for any app in development!** This is true not just for beginners, but for all developers.
 
-<!---
-### [Schedule](./schedule.md)
-
---- -->
 
 
 ### Technical Requirements
@@ -36,12 +32,13 @@ Your app must...
 
 ### Deliverables
 
-By **Thursday, June 15th at 12:00pm**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing...
+By **Thursday, August 10th at 12:00pm**, create an issue on [the project2-gallery repository](https://github.com/ga-dc/project2-gallery) containing...
 
   * a link to your Project 2 Github repository
     > *Please do **not** fork this repo*
 
   * a link to your screencast presentation
+    > Refer to the [presentations.md](presentations.md) file for more information on how to record your video
 
 Your repo should contain...
 
@@ -69,7 +66,7 @@ Your repo should contain...
 
 #### Getting Unstuck
 
-  * **Don't hesitate to write garbage code to solve short-term problems**. *Refactor later.*
+  * **Don't hesitate to write work-around code to solve short-term problems**. *Refactor later.*
 
   * **Read the docs for whatever technologies you use**. The docs often include a tutorial that can help you get started, and learning to read documentation is crucial to your success as a developer.
 
@@ -112,20 +109,23 @@ Users will be able to register and create albums and photos. Albums and photos c
 
 ### Asking For Help
 
-Instructors will be offering support on Monday, Tuesday, and Wednesday during Open Office Hours, 10:00am - 12:00pm in Classroom 5.
+Instructors will be offering in-person support each morning from 10:00am - 12:00pm in Classroom 5.
 
-We will be providing continuous support via GitHub, on the issues section of this repo. This is to mirror "in-the-wild" practices. Oftentimes, developers will interact with each other via GitHub issues, particularly in remote work settings.
+We will be providing **continuous** support via GitHub, on the issues section of this repo. This is to mirror "in-the-wild" practices. Oftentimes, developers will interact with each other via GitHub issues, particularly in remote work settings.
 
-Students will be limited to `10 minutes` at a time with one-on-one instructor support during Open Office Hours. We are doing this to ensure we can support ALL students during a session as well as giving you an opportunity to try working through your problem.
+Students will be limited to `10 minutes` at a time with one-on-one instructor support. We are doing this to ensure we can support ALL students during a session as well as giving you an opportunity to try working through your problem.
 
-Prior to a one-on-one during Open Office Hours, we ***strongly recommend*** that you file an issue on this repository in order to both provide the instructor with a point of reference regarding your code and the issue you are having. This will enable us to give you more effective guidance.
+<!-- Prior to a one-on-one during Open Office Hours, we ***strongly recommend*** that you file an issue on this repository in order to both provide the instructor with a point of reference regarding your code and the issue you are having. This will enable us to give you more effective guidance. -->
 
-When you submit an issue please include the following...
-  1. A code snippet
-  2. A precise and specific description of your issue
-  3. What error you got
-  4. What you already tried to resolve your error and the result of those attempts
+To submit an issue requesting support, please follow this process:  
 
-> [Check here for details on this process](https://github.com/ga-dc/wdi12/blob/master/asking-for-help.md#during-project-weeks).
+**1. Add, commit, and push your current code to your remote repository**  
+- If the commit contains non-functioning / incomplete code, label it with a "WIP" message (Work In Progress)  
 
-We also strongly recommend **using Slack to get help from your classmates**. Chances are you all will be running into similar problems.
+**2. Submit an issue to [this repository](https://github.com/ga-wdi-exercises/project2/issues) with the following information:**  
+- A precise and specific description of your issue  
+- A link to the specific files / line number(s) of your repo that you are working on  
+- What error(s) you got  
+- What you already tried to resolve your error and the result of those attempts  
+
+> We also strongly recommend **using Slack to get help from your classmates**. Chances are you all will be running into similar problems.
